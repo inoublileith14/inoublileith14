@@ -32,4 +32,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=inoublileith&show_icons=true&locale=en" alt="inoublileith" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inoublileith&" alt="inoublileith" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=inoublileith&show_icons=true&locale=en&layout=compact" alt="inoublileith" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inoublileith" alt="inoublileith" /></a></p>
